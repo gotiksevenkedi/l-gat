@@ -1,2 +1,2 @@
-# l-gat
+# lugat
 Gizlilik Politikası
