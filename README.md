@@ -1,0 +1,2 @@
+# l-gat
+Gizlilik Politikası
